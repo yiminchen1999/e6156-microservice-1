@@ -6,7 +6,7 @@ Sprint in a concept from [Agile SW development](https://en.wikipedia.org/wiki/Ag
 Project teams will follow a simplified version of agile development to build their projects. A core concept in
 agile development is _a sprint._
 
-|   <img src="./sprints.png">    |
+|   <img src="report/sprints.png">    |
 |:------------------------------:|
 | __Agile Development: Sprints__ | 
 
